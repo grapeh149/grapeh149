@@ -110,15 +110,13 @@ currently_learning:
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=grapeh149&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapeh149&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=grapeh149&theme=tokyo-night&hide_border=true" width="95%"/>
-
+  <img width="54%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=grapeh149&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grapeh149&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grapeh149&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
 ---
