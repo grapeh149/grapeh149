@@ -81,16 +81,8 @@ currently_learning:
 
 ---
 
-## ☁️ Personal ETL SaaS Platform
-> Cloud-based ETL platform that automates CSV ingestion and transformation workflows.
-
-**Tech Stack:**  
-`AWS Lambda` `AWS Glue` `S3` `Python`
-
----
-
-## 📈 House Market Price Prediction Platform
-> Predicting house price using web crawling and machine learning.
+## 📈 House Price Prediction Platform
+> Predicting house prices in Ho Chi Minh City districts using web crawling and machine learning.
 
 **Tech Stack:**  
 `Python` `Machine Learning` `Web Crawling` `SQL`
