@@ -71,16 +71,6 @@ currently_learning:
 
 ---
 
-# 📌 Featured Projects
-
-## 🚦 Real-time Traffic Congestion Monitoring System
-> Real-time traffic congestion monitoring and alerting system using streaming vehicle location data.
-
-**Tech Stack:**  
-`Python` `Kafka` `Spark` `Azure` `Real-time Processing`
-
----
-
 ## 📈 House Price Prediction Platform
 > Predicting house prices in Ho Chi Minh City districts using web crawling and machine learning.
 
