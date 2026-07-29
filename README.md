@@ -72,10 +72,11 @@ currently_learning:
 ---
 
 ## 📈 House Price Prediction Platform
-> Predicting house prices in Ho Chi Minh City districts using web crawling and machine learning.
+> An end-to-end machine learning platform for predicting house prices across districts in Ho Chi Minh City. The project includes web scraping with Selenium, data preprocessing, feature engineering, model training, deployment of an interactive Flask web application, and cloud hosting on AWS EC2 for online access.
+
 
 **Tech Stack:**  
-`Python` `Machine Learning` `Web Crawling` `SQL`
+`Python` `Machine Learning` `Web Crawling` `SQL` `Cloud Service`
 
 ---
 
