@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hoang%20Thai%20Huy&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-# Data Analyst • Data Engineer • Analytics Engineer
-
 <p>
 Building scalable ETL pipelines, analytics systems, and cloud-based data solutions.
 </p>
@@ -71,6 +69,24 @@ currently_learning:
 
 ---
 
+## ⚙️ SaaS ETL Platform
+> A self-service ETL platform where users define their own data sources and database structures. Apache Airflow schedules the ingestion and loading jobs, storing raw files in MinIO (S3-compatible) and processed data in MySQL. All services (Airflow, MySQL, MinIO and a Flask web app) run in Docker containers across multiple AWS EC2 instances inside a custom VPC/subnet layout.
+
+
+**Tech Stack:**
+`Python` `Apache Airflow` `MySQL` `MinIO` `Flask` `Docker` `AWS EC2` `AWS VPC`
+
+---
+
+## 🏟️ Sports Facility Management System
+> A web system for booking, scheduling and customer management at sports facilities, built with Spring Boot on Azure SQL Server. A GitHub Actions CI/CD pipeline runs JUnit tests, builds Docker images for the frontend and backend, pushes them to Azure Container Registry and deploys them to Azure App Service.
+
+
+**Tech Stack:**
+`Java` `Spring Boot` `JUnit 5` `Docker` `GitHub Actions` `Azure (ACR, App Service, SQL Server)`
+
+---
+
 ## 📈 House Price Prediction Platform
 > An end-to-end machine learning platform for predicting house prices across districts in Ho Chi Minh City. The project includes web scraping with Selenium, data preprocessing, feature engineering, model training, deployment of an interactive Flask web application, and cloud hosting on AWS EC2 for online access.
 
@@ -88,29 +104,6 @@ currently_learning:
 
 ---
 
-# 📚 Currently Working On
-
-- Building scalable ETL pipelines
-- Learning modern data stack tools
-- Improving cloud architecture skills
-- Practicing analytics engineering workflows
-- Developing real-time data processing systems
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img width="54%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=grapeh149&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grapeh149&layout=compact&theme=tokyonight&hide_border=true"/>
-  
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grapeh149&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
-
----
 
 # 🌐 Connect With Me
 
@@ -124,12 +117,15 @@ currently_learning:
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
+<a href="https://facebook.com/grapeh149">
+  <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 Turning raw data into meaningful insights.
 
 </div>
